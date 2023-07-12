@@ -1,4 +1,4 @@
-# civilization-randomizer for Civilization VI
+# civilization randomizer for civilization VI
 
 // This project has done in python with help of tkinter library.
 
