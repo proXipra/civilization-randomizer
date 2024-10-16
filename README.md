@@ -1,8 +1,8 @@
-# civilization randomizer for civilization VI
+# Sid's Mixer
 
-// This project has done in python with help of tkinter library.
+This code is for fun purposes.
 
-// I tried to understand to use classes for more efficient coding.
+I tried to understand how to use classes for more efficient coding.
 
 
 On this app, you can give random civilizations to players that you have created.
